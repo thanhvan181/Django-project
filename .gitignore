@@ -1,0 +1,5 @@
+*.sqlite3
+*.pyc
+thanhvan_env/
+.idea/
+migrations/
